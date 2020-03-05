@@ -7,8 +7,6 @@
 import datetime
 
 import requests
-from lxml import etree
-from pprint import pprint
 import simplejson
 import os
 
